@@ -1,0 +1,2 @@
+define lambda let cons car cdr displayln
+flo:abs flo:acos flo:asin flo:atan

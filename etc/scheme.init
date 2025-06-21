@@ -1,0 +1,2 @@
+(load "~/code/sicp_exercises/etc/utils.scm")
+(newline)
